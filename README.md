@@ -6,7 +6,7 @@ In the project directory, you can run:
 
 ### `npm install`
 
-Installs the app\
+Installs the app.\
 
 
 ### `npm start`
